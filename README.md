@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 1
   Creating example accounts as an Administrator
 - Item 2
-  Seeing an End Users perspective
+  Creating an End Users
 - Item 3
   Configuring SLA, Help Topics
   
